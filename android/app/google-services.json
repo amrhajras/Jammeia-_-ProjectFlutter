@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "716820235283",
+    "project_id": "jameia-5c2cf",
+    "storage_bucket": "jameia-5c2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716820235283:android:09b0caa4785ef1f9e46be6",
+        "android_client_info": {
+          "package_name": "com.example.jammaijroject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716820235283-6o0fhjdn827mherdf0reksar6k1c2ob3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKF3U6QSvVPGy16pbKndYs3o_ui6b-XnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716820235283-6o0fhjdn827mherdf0reksar6k1c2ob3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716820235283:android:4b71f23129620536e46be6",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716820235283-6o0fhjdn827mherdf0reksar6k1c2ob3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKF3U6QSvVPGy16pbKndYs3o_ui6b-XnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716820235283-6o0fhjdn827mherdf0reksar6k1c2ob3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
