@@ -6,6 +6,7 @@ import 'package:untitled1/view/test.dart';
 import 'core/constant/app_route.dart';
 import 'core/service/my_service.dart';
 
+//dwdwd
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
